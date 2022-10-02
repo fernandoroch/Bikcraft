@@ -12,6 +12,7 @@
 
 /* configurações componentes */
 @import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
 
 /* configurações introdução */
 @import "./home/introducao.css";
@@ -34,6 +35,10 @@
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
+
+/* configurações termos */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 /* configurações termos */
 @import "./termos/termos.css";
