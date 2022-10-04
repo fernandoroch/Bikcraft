@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Termos e condições">
+  <link rel="preload" href="css/style.css" as="style">
   <link rel="stylesheet" href="css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,9 +39,83 @@
       </div>
     </div>
 
-
-
+    <div class="contato container">
+      <section aria-label="Endereço" class="contato-dados">
+        <h2 class="font-1-m cor-0">Loja Online</h2>
+        <div class="contato-endereco font-2-s cor-4">
+          <p>Rua Ali Perto, 35</p>
+          <p>Rio de Janeiro - RJ</p>
+          <p>Brasil - Terra - Vita Láctea</p>
+        </div>
+        <address class="contato-meios font-2-s cor-4">
+          <a href="mailto:contato@bikcraft.com">contato@bikcraft.com</a>
+          <a href="mailto:assistencia@bikcraft.com">assistencia@bikcraft.com</a>
+          <a href="tel:+55 21 9999-9999">+55 21 9999-9999</a>
+        </address>
+        <div class="contato-redes">
+          <a href="https://www.instagram.com/_daycode_/"><img src="./img/redes/instagram-p.svg" alt=""></a>
+          <a href=""><img src="./img/redes/facebook-p.svg" alt="Facebook"></a>
+          <a href=""><img src="./img/redes/youtube-p.svg" alt="Youtube"></a>
+        </div>
+      </section>
+      <section aria-label="Formulario" class="contato-formulario">
+        <form class="form" action="./contato.html">
+          <div>
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name" placeholder="Your Name">
+          </div>
+          <div>
+            <label for="tell">Tell</label>
+            <input type="text" name="tell" id="tell" placeholder="(11) 99999-9999">
+          </div>
+          <div class="col-2">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="Your Email">
+          </div>
+          <div class="col-2">
+            <label for="message">Message</label>
+            <textarea rows="5" name="message" id="message" placeholder="What do you need?"></textarea>
+          </div>
+          <button class="button col-2">enviar mensagem</button>
+        </form>
+      </section>
+    </div>
   </main>
+
+  <article class="lojas container">
+    <h2 class="font-1-xxl">lojas locais<span class="cor-p1">.</span></h2>
+    <div class="lojas-item">
+      <img src="./img/lojas/rj.jpg" alt="mapa do endereço em Rua Ali Perto, 25 Rio de Janeiro - RJ">
+      <div class="lojas-conteudo">
+        <h3 class="font-1-xl">Rio de Janeiro</h3>
+        <div class="lojas-dados font-2-s cor-8">
+          <p>Rua Ali Perto, 25</p>
+          <p>Rio de Janeiro - RJ</p>
+        </div>
+        <div class="lojas-dados font-2-s cor-8">
+          <a href="mailto:rj@bikcraft.com">rj@bikcraft.com</a>
+          <a href="tel:+55 21 9999-9999">+55 21 9999-9999</a>
+        </div>
+        <p class="lojas-tempo font-1-s"><img src="./img/icones/horario.svg" alt="">08-18h de seg à dom</p>
+      </div>
+    </div>
+
+    <div class="lojas-item">
+      <img src="./img/lojas/sp.jpg" alt="mapa do endereço em Rua Ali Perto, 25 São Paulo - sp">
+      <div class="lojas-conteudo">
+        <h3 class="font-1-xl">São Paulo</h3>
+        <div class="lojas-dados font-2-s cor-8">
+          <p>Rua Ali Perto, 25</p>
+          <p>São Paulo - sp</p>
+        </div>
+        <div class="lojas-dados font-2-s cor-8">
+          <a href="mailto:sp@bikcraft.com">sp@bikcraft.com</a>
+          <a href="tel:+55 11 9999-9999">+55 21 9999-9999</a>
+        </div>
+        <p class="lojas-tempo font-1-s"><img src="./img/icones/horario.svg" alt="">08-18h de seg à dom</p>
+      </div>
+    </div>
+  </article>
 
   <footer class="footer-bg">
     <div class="footer container">
