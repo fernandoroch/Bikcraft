@@ -5,6 +5,10 @@
 @import "./utilidades/tipografia.css";
 /* configurações cores */
 @import "./utilidades/cores.css";
+
+/*animação css*/
+@import "./utilidades/animacao.css";
+
 /* configurações header */
 @import "./global/header.css";
 /* configurações footer */
