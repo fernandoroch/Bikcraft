@@ -4,7 +4,7 @@
 
 <P  align="center">Projeto de apresentação de bicicletas elétricas, com objetivo de praticar e aplicar todos os conceitos ensinados através do curso da empresa Origamid.</P>
 
-<img src="img/readme/imgs/home.png">
+<img src="img/Readme/imgs/home.png">
 
 <hr>
 
@@ -35,11 +35,11 @@
 ## gifs
 
 <h3>Efeito suave de carregamento da pagina</h3> <br>
-    <img src="img/readme/gifs/efeitoSuave.gif"></br></br>
+    <img src="img/Readme/gifs/efeitoSuave.gif"></br></br>
     <h3>Perguntas frequentes com javascript</h3><br>
-    <img src="img/readme/gifs/perguntas.gif"></br></br>
+    <img src="img/Readme/gifs/perguntas.gif"></br></br>
     <h3>Escolher uma bicicleta com javascript</h3><br>
-    <img src="img/readme/gifs/escolher.gif"></br></br>
+    <img src="img/Readme/gifs/escolher.gif"></br></br>
  </div><br><br>
 
 <hr>
