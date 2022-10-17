@@ -20,7 +20,7 @@
    <h4 align="center">&#11088 Projeto Bikcraft &#11088 </h4>
    </br>
 
-### feature
+### Características
 
 - [x] Efeito suave de carregamento da pagina.
 - [x] Perguntas frequentes com javascript.
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## gifs
+## Gifs
 
 <h3>Efeito suave de carregamento da pagina</h3> <br>
     <img src="img/Readme/gifs/efeitoSuave.gif"></br></br>
@@ -46,7 +46,7 @@
 <br>
  <div align="center">
  
- ## tecnologias 
+ ## Tecnologias 
  
  <h2>utilizada</h2><br>
 
@@ -59,7 +59,7 @@
 <hr>
 <br>
 
-## utilização
+## Utilização
 
 <p>Projeto usando apenas tecnologias de fácil utilização não necessita nenhuma instalação.</p>
  </div>
@@ -68,7 +68,7 @@
  <hr>
  <br>
 
-## funcionando
+## Funcionando
 
   <p>Click no botão abaixo e visualize o projeto </p>
 <br>
@@ -80,7 +80,7 @@
  <hr>
  <br>
 
-### criado por fernando rocha.
+### Criado por fernando rocha.
 
 Rede Sociais:
 
